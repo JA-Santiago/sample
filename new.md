@@ -1,2 +1,10 @@
-title: My New Page
-layout: page
+---
+title: About Me
+icon: fa-user
+order: 3
+---
+
+<p><img src="assets/images/about_me_sq.jpg" alt="Coffee" style="float:left; margin:1em"/>
+
+Tell me something about yourself.  Block text test.Block text test.Block text test.Block text test.Block text test.Block text test.Block text test.Block text test.Block text test.Block text test.Block text test.Block text test.</p>
+
